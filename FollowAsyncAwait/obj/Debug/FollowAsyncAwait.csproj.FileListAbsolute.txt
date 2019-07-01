@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\FollowAsyncAwait\FollowAsyncAwait\bin\Debug\FollowAsyncAwait.exe.config
+c:\users\user\documents\visual studio 2012\Projects\FollowAsyncAwait\FollowAsyncAwait\bin\Debug\FollowAsyncAwait.exe
+c:\users\user\documents\visual studio 2012\Projects\FollowAsyncAwait\FollowAsyncAwait\bin\Debug\FollowAsyncAwait.pdb
+c:\users\user\documents\visual studio 2012\Projects\FollowAsyncAwait\FollowAsyncAwait\obj\Debug\FollowAsyncAwait.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\FollowAsyncAwait\FollowAsyncAwait\obj\Debug\FollowAsyncAwait.exe
+c:\users\user\documents\visual studio 2012\Projects\FollowAsyncAwait\FollowAsyncAwait\obj\Debug\FollowAsyncAwait.pdb
